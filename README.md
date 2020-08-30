@@ -1,2 +1,2 @@
-# ml-notebooks
-Learning jupyter notebooks and github integration
+# Machine Learning
+Concepts, Algorithms and Project
